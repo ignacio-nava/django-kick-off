@@ -7,7 +7,7 @@ with open('readme.md', 'r') as fh:
 
 setup(
     name='django-kick-off',
-    version='0.0.3',
+    version='0.0.4',
 	url="https://github.com/ignacio-nava/django-kick-off",
 	author="Ignacio Nava",
 	author_email="nava_ignacio@outlook.com",
