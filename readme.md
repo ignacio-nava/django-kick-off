@@ -6,7 +6,7 @@ The idea of this package is to avoid the repetitive task of configuring a Django
 ## Installation
 
 ```python
-pip install kick-off-django
+pip install django-kick-off
 ```
 
 ## Usage
